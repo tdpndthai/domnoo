@@ -31,3 +31,8 @@ npm install vue-carousel
 npm install vue-resource --save
 npm install --save vue-scroll-reveal
 ```
+
+### Demo Web
+```
+https://domnoo-5a610.web.app/
+```
