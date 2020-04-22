@@ -22,3 +22,12 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Some library use in project
+```
+npm install vue-material --save
+npm install vue-carousel
+npm install vue-resource --save
+npm install --save vue-scroll-reveal
+```
