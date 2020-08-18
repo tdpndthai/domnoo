@@ -33,6 +33,6 @@ npm install --save vue-scroll-reveal
 ```
 
 ### Demo Web
-```
+
 https://domnoo-5a610.web.app/
-```
+
